@@ -242,7 +242,7 @@ During the development of Cyber we realized that we can finally create the compu
 
 One especially important aspect of the bootstrapping mechanism is the initial distribution. The relevance machine is designed to continuously learn. At the beginning it is like a newborn. The process of future learning is highly dependent on previous experience, so we dedicated [standalone research](https://github.com/cybercongress/cybergift) and software for solving this critical factor of the launch.
 
-## Browzers
+## Browsers
 
 Browser and search are inseparable things. The existing DNS system is being used primarily for pointing to dynamic content. A search bar evolves into a superstructure over the DNS system which resolves to DNS.
 
